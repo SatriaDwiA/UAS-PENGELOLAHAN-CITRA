@@ -1,5 +1,5 @@
 # UAS---PENGOLAHAN-CITRA---TI.22.A.5
-|SATRIA DWI APRIANTO | 312210490 |
+|NAMA | NIM |
 | - | - |
 | Rahmat Hidayat | 312210565 |
 | Satria Dwi Aprianto | 312210490 |
